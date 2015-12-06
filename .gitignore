@@ -5,6 +5,9 @@
 # backups
 *~
 
+# cmake
+build
+
 # autotools
 Makefile
 Makefile.in
