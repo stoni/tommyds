@@ -21,4 +21,4 @@ set (TOMMYDS_SRC ${SRC_DIR}/tommy.c)
 
 MESSAGE(STATUS "Building in mode: " ${CMAKE_BUILD_TYPE})
 
-add_library(tommdyds ${TOMMYDS_SRC})
+add_library(tommyds ${TOMMYDS_SRC})
